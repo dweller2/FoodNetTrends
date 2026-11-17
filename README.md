@@ -268,13 +268,13 @@ This software is released under the CDC Public Domain License.
 ## SHARE IT Act Compliance
  
 ```
-Organization: NCEZID/AMD
+Organization: NCEZID/AMD, NCEZID/DFWED/EDEB
  
-Contact email: ncezid_shareit@cdc.gov
+Contact email: ncezid_shareit@cdc.gov,  qok9@cdc.gov 
  
 Exemption: NA
  
 Exemption Justification: NA
  
-Description fields:
+Description fields: FoodNet Trends is a bioinformatics pipeline that performs spline-based modeling of foodborne illness surveillance data. The pipeline processes FoodNet MMWR data and applies Bayesian hierarchical models to estimate incidence rates and trends across different pathogens and sites.
 ```
